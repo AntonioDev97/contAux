@@ -18,17 +18,7 @@ namespace ContAux.view
             
         }
 
-        private void picUser_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void tblLayContP_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
+        private void pnItem1_MouseHover(object sender, EventArgs e)
         {
 
         }

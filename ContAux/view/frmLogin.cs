@@ -72,7 +72,7 @@ namespace ContAux.view
 
         private void btnEntrar_Click(object sender, EventArgs e)
         {
-            if (txtUser.Text.Trim().Equals("Usuario") || txtUser.Text.Trim().Equals(String.Empty))
+            /*if (txtUser.Text.Trim().Equals("Usuario") || txtUser.Text.Trim().Equals(String.Empty))
                 MessageBox.Show("Verifique su usuario e intente de nuevo", "Datos Incorrectos", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             else if (txtPass.Text.Trim().Equals("Contraseña") || txtPass.Text.Trim().Equals(""))
                 MessageBox.Show("Verifique su contraseña e intente de nuevo", "Datos Incorrectos", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -90,7 +90,10 @@ namespace ContAux.view
                 else
                     MessageBox.Show("Verifique sus credenciales e intente de nuevo", "Datos Incorrectos", MessageBoxButtons.OK, MessageBoxIcon.Warning);
            
-            }
+            }*/
+            frmMenuPrincipal menu = new frmMenuPrincipal();
+            this.Hide();
+            menu.Show();
         }
     }
 }
