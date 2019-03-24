@@ -13,3 +13,17 @@ C:\Users\Antonio Olvera\Documents\Visual Studio 2015\Projects\ContAux\ContAux\ob
 C:\Users\Antonio Olvera\Documents\Visual Studio 2015\Projects\ContAux\ContAux\obj\Debug\ContAux.view.frmMenuPrincipal.resources
 C:\Users\Antonio Olvera\Documents\Visual Studio 2015\Projects\ContAux\ContAux\bin\Debug\MySql.Data.dll
 C:\Users\Antonio Olvera\Documents\Visual Studio 2015\Projects\ContAux\ContAux\bin\Debug\MySql.Data.xml
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\bin\Debug\ContAux.exe.config
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.exe
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.pdb
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\bin\Debug\ContAux.exe
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\bin\Debug\ContAux.pdb
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\bin\Debug\MySql.Data.xml
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.csprojResolveAssemblyReference.cache
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.Properties.Resources.resources
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.view.frmLogin.resources
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.view.frmMain.resources
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.view.frmMenuPrincipal.resources
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.view.frmSplashScreen.resources
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.view.MenuContaux.resources
+C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.csproj.GenerateResource.Cache

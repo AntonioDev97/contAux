@@ -78,7 +78,6 @@
             this.prgBar.Size = new System.Drawing.Size(665, 35);
             this.prgBar.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
             this.prgBar.TabIndex = 2;
-     
             // 
             // timer1
             // 
@@ -96,6 +95,7 @@
             this.Controls.Add(this.picWelcome);
             this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmSplashScreen";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmSplashScreen";
