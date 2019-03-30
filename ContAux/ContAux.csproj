@@ -51,6 +51,12 @@
     <Compile Include="controller\seguridad.cs" />
     <Compile Include="controller\UserLogin.cs" />
     <Compile Include="model\UserLogin.cs" />
+    <Compile Include="view\frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
     <Compile Include="view\frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,6 +83,12 @@
     <Compile Include="view\frmSplashScreen.Designer.cs">
       <DependentUpon>frmSplashScreen.cs</DependentUpon>
     </Compile>
+    <Compile Include="view\frmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\frmUsers.Designer.cs">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </Compile>
     <Compile Include="view\MenuContaux.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +104,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="view\frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="view\frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
@@ -103,6 +118,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="view\frmSplashScreen.resx">
       <DependentUpon>frmSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\frmUsers.resx">
+      <DependentUpon>frmUsers.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="view\MenuContaux.resx">
       <DependentUpon>MenuContaux.cs</DependentUpon>

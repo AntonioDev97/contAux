@@ -27,3 +27,5 @@ C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug
 C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.view.frmSplashScreen.resources
 C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.view.MenuContaux.resources
 C:\Users\Isc02sd\Documents\Visual Studio 2015\Projects\contAux\ContAux\obj\Debug\ContAux.csproj.GenerateResource.Cache
+C:\Users\Antonio Olvera\Documents\Visual Studio 2015\Projects\ContAux\ContAux\obj\Debug\ContAux.view.frmHome.resources
+C:\Users\Antonio Olvera\Documents\Visual Studio 2015\Projects\ContAux\ContAux\obj\Debug\ContAux.view.frmUsers.resources
